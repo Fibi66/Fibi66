@@ -1,18 +1,14 @@
-### Hi there 👋
+# about.
 
-<!--
-**Fibi66/Fibi66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🍀恭喜你发现一名转码小透明，坐标西雅图，目前正在努力学习编程。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+**LeetCode 进度**
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Fib66?theme=dark&font=Noto%20Sans%20Tamil&ext=heatmap)](https://leetcode.com/Fib66)
 
+**Notion 错题集**
+
+[https://www.notion.so/b87ca8da9f954ab1a2e8bbfb6fa69f71?v=4](https://www.notion.so/b87ca8da9f954ab1a2e8bbfb6fa69f71?v=4)
