@@ -3,6 +3,6 @@
 
 🍀Seattle<br>
 🍀Cat. Coffee. LoL. Repeat. <br>
-🍀Backend: Java, Spring, Cloud<br>
+🍀Backend, Java, Python, Spring, AI Infra<br>
 
 
