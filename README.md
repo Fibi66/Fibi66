@@ -1,19 +1,17 @@
 # Hi there! 👋 I'm Giana
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A8D8&center=true&vCenter=true&width=435&lines=Backend+AI Infra+%F0%9F%92%BB;Java+%7C+Python+%7C+Spring+%7C+TypeScript;Cat+%F0%9F%90%B1+Coffee+%E2%98%95+LoL+%F0%9F%8E%AE+Repeat" alt="Typing SVG" />
-</div>
-<div align="center">
-  <a href="https://zhifeiye.com/">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A8D8&center=true&vCenter=true&width=500&lines=Backend+Developer+AI+Infra+%F0%9F%92%BB;Java+%7C+Python+%7C+Spring+%7C+TypeScript;Cat+%F0%9F%90%B1+Coffee+%E2%98%95+LoL+%F0%9F%8E%AE+Repeat)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF69B4?style=for-the-badge)](https://zhifeiye.com/)
+
 </div>
 ## 🌸 About Me
 
 ```yaml
-name: Giana
 location: Seattle, WA 🌧️
-current: Master's Student @ Northeastern University
+School: NEU, Cornell, Penn State
 focus: Backend Development & AI Infrastructure
 ```
 
