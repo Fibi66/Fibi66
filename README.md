@@ -9,6 +9,6 @@
 
 ```yaml
 location: Seattle, WA 🌧️
-School: NEU, Cornell, Penn State
+School: NEU, Cornell, Penn
 focus: Backend Development & AI Infrastructure
 ```
